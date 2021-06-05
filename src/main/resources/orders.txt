@@ -1,0 +1,15 @@
+1, Customer1,150, 6-1-2020
+2, Customer1, 51, 6-11-2020
+3, Customer2, 15, 6-22-2020
+4, Customer1, 150, 6-1-2020
+5, Customer2, 200, 3-11-2020
+6, Customer1, 250, 3-22-2020
+7, Customer2, 300, 4-1-2020
+8, Customer1, 555, 5-11-2020
+9, Customer2, 65, 4-22-2020
+10, Customer1, 150, 9-1-2020
+11, Customer2, 51, 9-11-2020
+12, Customer1, 15, 10-22-2020
+13, Customer2, 55, 6-5-2021
+13, Customer1, 155, 3-5-2021
+13, Customer1, 55, 3-5-2021
